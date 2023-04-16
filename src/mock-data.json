@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "fullName": "Abisheik",
+      "batch": "b44",
+      "phoneNumber": "912345678",
+      "email": "abisheik@gmail.com"
+    },
+   
+    {
+      "id": 2,
+      "fullName": "murugappan",
+      "batch": "fsd b44",
+      "phoneNumber": "923456789",
+      "email": "murugappan@gmail.com"
+    }
+  ]
